@@ -13,7 +13,7 @@
 .carousel{
     background-image: url(images/WhatsApp\ Image\ 2021-11-18\ at\ 1.13.40\ AM.jpeg);
     height: 100%;
-    background-size: cover;
+    background-size:unset;
     background-position: center;
     background-attachment: scroll;
 
