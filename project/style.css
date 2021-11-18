@@ -1,12 +1,12 @@
 .carousel-control-next{
     border-radius: 10px;
-    background-color: rgba(180, 174, 174, 0.7);
+    background-color: rgba(180, 174, 174, 0.5);
     height: 80%;
     width:5%;
 }
 .carousel-control-prev{
     border-radius: 10px;
-    background-color: rgba(180, 174, 174, 0.7);
+    background-color: rgba(180, 174, 174, 0.5);
     height: 80%;
     width:5%;
 }
