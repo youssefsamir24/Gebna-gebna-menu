@@ -1,14 +1,14 @@
 .carousel-control-next{
-    margin-top: 30vh;
+    
     border-radius: 10px;
-    background-color: rgba(180, 174, 174, 0.5);
+    background-color: rgba(180, 174, 174, 0.3);
     height: 70vh;
     width:5%;
 }
 .carousel-control-prev{
-    margin-top: 30vh;
+    
     border-radius: 10px;
-    background-color: rgba(180, 174, 174, 0.5);
+    background-color: rgba(180, 174, 174, 0.3);
     height: 70vh;
     width:5%;
 }
