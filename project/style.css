@@ -31,3 +31,6 @@
 .carousel-inner img{
     width: 55vh;
 }
+.carousel-item{
+    padding: 5px;
+}
