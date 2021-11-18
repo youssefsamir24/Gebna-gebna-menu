@@ -12,14 +12,22 @@
 }
 .carousel{
     background-image: url(images/WhatsApp\ Image\ 2021-11-18\ at\ 1.13.40\ AM.jpeg);
-    height: 100%;
-    background-size:unset;
+    height: 100vh;
+    background-size: cover;
     background-position: center;
     background-attachment: scroll;
 
 }
 .home{
-    padding: 10px;
-    background-color: aqua;
+    /* padding: 10px; */
+    /* background-color: aqua; */
+    
+}
+.carousel-inner{
     height: 100%;
+    padding: 5px;
+    /* background-color: white; */
+}
+.carousel-inner img{
+    width: 55vh;
 }
