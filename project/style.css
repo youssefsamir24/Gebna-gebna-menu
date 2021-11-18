@@ -30,6 +30,7 @@
 }
 .carousel-inner img{
     width: 40vh;
+    height: 80vh;
 }
 .carousel-item{
     padding: 5px;
